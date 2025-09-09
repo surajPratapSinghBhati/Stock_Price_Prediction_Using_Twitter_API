@@ -1,10 +1,9 @@
 # Stock_Price_Prediction_Using_Twitter_API
-# AI & ML Projects
+# AI & ML Project
 
 This repository contains two academic projects demonstrating practical work in AI/ML:
 
 - `stock-sentiment` — Stock prediction combined with Twitter sentiment analysis (Python backend + simple frontend)
-- `handwritten-recognition` — Handwritten A–Z character recognition using a Convolutional Neural Network (TensorFlow/Keras)
 
 ---
 
