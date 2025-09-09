@@ -17,7 +17,7 @@ import datetime
 
 
 def get_twitter_client():
-    bearer_token = "AAAAAAAAAAAAAAAAAAAAAFZExAEAAAAApLmb9tSg8E%2FFo5T8xEIq1vCaWYM%3D4WPqPblaLflpvtkJeqyKWOybKPd53QWZ34Zd8VSngv14UiNYl2"
+    bearer_token = "YOUR BARRIER TOKEN"
     return tweepy.Client(bearer_token=bearer_token)
 
 
@@ -138,6 +138,7 @@ if __name__ == "__main__":
 
     else:
         print("Insufficient data to train the model.")
+
 
 
 
